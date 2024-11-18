@@ -7,7 +7,39 @@ import {SWATCHES} from '@/constants';
 
 export function Home(){
 
+    const [reset, setReset] = useState(false)
+    const [color, setColor] = useState(false)
+
+
+    useEffect(() => {
+        const canvas = canvasRef.current;
     
+        if (canvas) {
+            const ctx = canvas.getContext('2d');
+            if (ctx) {
+                canvas.width = window.innerWidth;
+                canvas.height = window.innerHeight - canvas.offsetTop;
+                ctx.lineCap = 'round';
+                ctx.lineWidth = 3;
+            }
+
+        }
+        const script = document.createElement('script');
+        script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML';
+        script.async = true;
+        document.head.appendChild(script);
+
+        script.onload = () => {
+            window.MathJax.Hub.Config({
+                tex2jax: {inlineMath: [['$', '$'], ['\\(', '\\)']]},
+            });
+        };
+
+        return () => {
+            document.head.removeChild(script);
+        };
+
+    }, []);
 
     return (
         <>
