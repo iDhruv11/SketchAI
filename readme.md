@@ -27,7 +27,7 @@ Think of it as a super-powered visual calculator and information tool! Here are 
 
 ## Demo Video
 
-[Watch the demo video](https://raw.githubusercontent.com/iDhruv11/SketchAI/master/demo.mp4
+[Watch the demo video](https://raw.githubusercontent.com/iDhruv11/SketchAI/master/Demo.mp4
 )
 of the project in action above.  
 
