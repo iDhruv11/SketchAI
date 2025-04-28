@@ -1,15 +1,15 @@
 
-# Canvas AI: Draw & Learn
+# Sketch AI: Draw & Learn
 
 ## Project Description
 
-Canvas AI is a unique project that combines the intuitiveness of drawing with the power of artificial intelligence. Unlike traditional tools that rely on text or numerical input, Canvas AI allows you to *draw* your problems or ideas, and then uses AI to analyze your drawing and provide relevant information or solutions.
+Skech AI is a unique project that combines the intuitiveness of drawing with the power of artificial intelligence. Unlike traditional tools that rely on text or numerical input, Sketch AI allows you to *draw* your problems or ideas, and then uses AI to analyze your drawing and provide relevant information or solutions.
 
 Think of it as a super-powered visual calculator and information tool! Here are a few examples of what you can do:
 
-* **Math Problems:** Draw a visual representation of a math problem (e.g., a diagram of a shape with dimensions), and Canvas AI can calculate parameters like area, volume, or solve equations.
-* **Anatomy & Biology:** Draw a diagram of a biological system (e.g., the human respiratory system), and Canvas AI can identify and label specific parts.
-* **Physics & Engineering:** Sketch a mechanical system or structure, and Canvas AI can help analyze forces, calculate measurements, or explain concepts.
+* **Math Problems:** Draw a visual representation of a math problem (e.g., a diagram of a shape with dimensions), and Sketch AI can calculate parameters like area, volume, or solve equations.
+* **Anatomy & Biology:** Draw a diagram of a biological system (e.g., the human respiratory system), and Sketch AI can identify and label specific parts.
+* **Physics & Engineering:** Sketch a mechanical system or structure, and Sketch AI can help analyze forces, calculate measurements, or explain concepts.
 * **Anything Visual:** The possibilities are endless! You can draw a rough sketch of virtually anything and have AI attempt to make sense of it, providing explanations, definitions, or related information.
 
 ## Features
